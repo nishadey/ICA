@@ -7,8 +7,8 @@
   border-radius: 0px;
   background: #f4f4f4;
   padding: 10px;
-  margin-left: 200px;
-  width: 400px;
+  margin-left: 20px;
+  width: 300px;
   height: 500px;
   margin-top: 0px;
 }
@@ -20,8 +20,8 @@
 #message{
   border-radius: 10px;
   padding: 10px;
-  margin-left: 200px;
-  width: 300px;
+  margin-left: 20px;
+  width: 200px;
 
 }
 #btn{
@@ -99,13 +99,13 @@ body{
 }
 
 #userWrapper{
-  float:left;
+  float:right;
   border: 1px #ccc solid;
   border-radius: 10px;
   background: #1ddced;
   padding: 10px;
-  margin-left: 20px;
-  width: 150px;
+  margin-right: 940px;
+  width: 100px;
   max-height: 200px;
   margin-top: 0px;
 }
